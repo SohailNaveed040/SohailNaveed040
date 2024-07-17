@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SohailNaveed040
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in nodejs
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me ...
 
